@@ -13,6 +13,8 @@ Requires:
 - droid-config-hallon-pulseaudio-settings
 - droid-config-hallon-policy-settings
 - droid-config-hallon-preinit-plugin
+- droid-config-hallon-flashing
+- droid-config-hallon-bluez4
 - droid-hal-version-hallon
 
 Summary: Jolla HW Adaptation hallon

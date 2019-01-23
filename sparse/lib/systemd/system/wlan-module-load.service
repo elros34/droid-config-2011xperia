@@ -1,0 +1,19 @@
+[Unit]
+Description=Load wifi module
+After=droid-late-start.service
+Before=network.target
+Conflicts=shutdown.target actdead.target
+
+[Service]
+Type=simple
+RemainAfterExit=yes
+ExecStartPre=/sbin/modprobe compat
+ExecStartPre=/sbin/modprobe wl12xx
+ExecStartPre=/sbin/modprobe wl12xx_sdio
+ExecStart=/bin/sh -c "/usr/bin/droid/wifi-cal.sh; sleep 2; rfkill unblock wlan"
+ExecStop=/sbin/modprobe -r wl12xx
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=basic.target

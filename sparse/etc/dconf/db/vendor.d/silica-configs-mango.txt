@@ -1,0 +1,5 @@
+[desktop/sailfish/silica]
+default_allowed_orientations=3
+icon_size_launcher=54
+
+

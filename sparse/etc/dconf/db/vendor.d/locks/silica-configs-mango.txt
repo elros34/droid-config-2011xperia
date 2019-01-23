@@ -1,0 +1,2 @@
+/desktop/sailfish/silica/default_allowed_orientations
+/desktop/sailfish/silica/icon_size_launcher

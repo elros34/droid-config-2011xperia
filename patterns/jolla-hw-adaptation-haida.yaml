@@ -13,6 +13,8 @@ Requires:
 - droid-config-haida-pulseaudio-settings
 - droid-config-haida-policy-settings
 - droid-config-haida-preinit-plugin
+- droid-config-haida-flashing
+- droid-config-haida-bluez4
 - droid-hal-version-haida
 
 Summary: Jolla HW Adaptation haida

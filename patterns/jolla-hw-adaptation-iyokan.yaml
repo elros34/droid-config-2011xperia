@@ -13,6 +13,8 @@ Requires:
 - droid-config-iyokan-pulseaudio-settings
 - droid-config-iyokan-policy-settings
 - droid-config-iyokan-preinit-plugin
+- droid-config-iyokan-flashing
+- droid-config-iyokan-bluez4
 - droid-hal-version-iyokan
 
 Summary: Jolla HW Adaptation iyokan

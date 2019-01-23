@@ -13,6 +13,9 @@ Requires:
 - droid-config-mango-pulseaudio-settings
 - droid-config-mango-policy-settings
 - droid-config-mango-preinit-plugin
+- droid-config-mango-flashing
+- droid-config-mango-bluez4
 - droid-hal-version-mango
 
 Summary: Jolla HW Adaptation mango
+

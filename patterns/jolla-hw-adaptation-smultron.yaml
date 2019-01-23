@@ -13,6 +13,8 @@ Requires:
 - droid-config-smultron-pulseaudio-settings
 - droid-config-smultron-policy-settings
 - droid-config-smultron-preinit-plugin
+- droid-config-smultron-flashing
+- droid-config-smultron-bluez4
 - droid-hal-version-smultron
 
 Summary: Jolla HW Adaptation smultron

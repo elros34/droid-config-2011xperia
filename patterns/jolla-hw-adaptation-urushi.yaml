@@ -13,6 +13,8 @@ Requires:
 - droid-config-urushi-pulseaudio-settings
 - droid-config-urushi-policy-settings
 - droid-config-urushi-preinit-plugin
+- droid-config-urushi-flashing
+- droid-config-urushi-bluez4
 - droid-hal-version-urushi
 
 Summary: Jolla HW Adaptation urushi

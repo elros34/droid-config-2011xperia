@@ -13,6 +13,8 @@ Requires:
 - droid-config-coconut-pulseaudio-settings
 - droid-config-coconut-policy-settings
 - droid-config-coconut-preinit-plugin
+- droid-config-coconut-flashing
+- droid-config-coconut-bluez4
 - droid-hal-version-coconut
 
 Summary: Jolla HW Adaptation coconut

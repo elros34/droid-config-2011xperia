@@ -13,6 +13,8 @@ Requires:
 - droid-config-anzu-pulseaudio-settings
 - droid-config-anzu-policy-settings
 - droid-config-anzu-preinit-plugin
+- droid-config-anzu-flashing
+- droid-config-anzu-bluez4
 - droid-hal-version-anzu
 
 Summary: Jolla HW Adaptation anzu
